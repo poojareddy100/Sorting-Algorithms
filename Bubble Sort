@@ -1,5 +1,5 @@
 Its an inplace Algorithm
-O(n^2) is the complexity
+O(n^2) is the time complexity
 This Alogorithm degrades quickly.
 lets say we are asked to sort the array {20, 35, -15, 7, 55, 1, 22}
 
